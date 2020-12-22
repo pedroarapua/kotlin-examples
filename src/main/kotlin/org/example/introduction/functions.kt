@@ -1,3 +1,5 @@
+package org.example.introduction
+
 fun printMessage(message: String): Unit {                               // 1
     println(message)
 }

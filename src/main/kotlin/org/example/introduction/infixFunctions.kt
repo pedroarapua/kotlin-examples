@@ -1,3 +1,5 @@
+package org.example.introduction
+
 fun main() {
 
     infix fun Int.times(str: String) = str.repeat(this)        // 1

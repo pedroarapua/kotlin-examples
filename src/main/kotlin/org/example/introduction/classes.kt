@@ -1,3 +1,5 @@
+package org.example.introduction
+
 class Customer                                  // 1
 
 class Contact(val id: Int, var email: String)   // 2

@@ -1,3 +1,5 @@
+package org.example.introduction
+
 class MutableStack<E>(vararg items: E) {              // 1
 
     private val elements = items.toMutableList()

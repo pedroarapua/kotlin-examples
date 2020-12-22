@@ -1,3 +1,5 @@
+package org.example.introduction
+
 fun <E> mutableStackOf(vararg elements: E) = MutableStack(*elements)
 
 fun main() {
